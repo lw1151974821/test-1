@@ -3,5 +3,5 @@ pwd 显示当前位置
 cd 路径
 git add 添加文件
 git commit 提交仓库
-git diff 查看不同
+git diff 查看不同 different
 git status 查看当前状态
