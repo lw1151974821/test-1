@@ -4,4 +4,4 @@ cd 路径
 git add 添加文件
 git commit 提交仓库
 git diff 查看不同 different
-git status 查看当前状态
+git status 查看当前状态 status append GPL
